@@ -1,1 +1,1 @@
-def register(first name,last name,username,password)
+def register(first name,last name,username,password,email)
